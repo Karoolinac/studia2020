@@ -1,0 +1,6 @@
+git init - inicjalizujemy gita
+git add - dodajemy plik do poczekalni np. git add sciagawka_z_git.txt
+git commit -m "Opis" - tworzymy commit
+git remote add - tworzymy skrot do zdalnego repozytorium - np. git remote add origin https://github.com/Karoolinac/studia2020
+git push - umieszczamy repozytorium na zdalnym serwerze np.  git push origin master (jeżeli wczesniej utworzylismy skrot "origin" do zdalnego repozytorium)
+git status - sprawdzanie statusu repozytorium
