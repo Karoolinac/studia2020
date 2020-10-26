@@ -1,6 +1,15 @@
-git init - inicjalizujemy gita
-git add - dodajemy plik do poczekalni np. git add sciagawka_z_git.txt
-git commit -m "Opis" - tworzymy commit
-git remote add - tworzymy skrot do zdalnego repozytorium - np. git remote add origin https://github.com/Karoolinac/studia2020
-git push - umieszczamy repozytorium na zdalnym serwerze np.  git push origin master (jeżeli wczesniej utworzylismy skrot "origin" do zdalnego repozytorium)
+git init - inicjalizacja gita
+git add - dodanie pliku do poczekalni np. git add sciagawka_z_git.txt
+git commit -m "Opis" - tworzenie commita
+git remote add - tworzenie skrotu do zdalnego repozytorium - np. git remote add origin https://github.com/Karoolinac/studia2020
+git push - umieszczanie repozytorium na zdalnym serwerze np.  git push origin master (jeżeli wczesniej utworzylismy skrot "origin" do zdalnego repozytorium)
 git status - sprawdzanie statusu repozytorium
+git rm - usuniecie pliku z systemu i z repozytorium
+git clone - stworzenie podkatalogu z repozytorium na dysku
+git pull - pobieranie repozytorium
+git diff - jakie zmiany zaszly w porownaniu z poczekalnia
+git restore - przywrocenia usunietego pliku
+add . - dodanie wszystkich plikow do poczekalni
+git log - historia repozytorium
+git revert ID - cofnie commita o danym ID
+git revert HEAD - cofniecie ostatniego commita
